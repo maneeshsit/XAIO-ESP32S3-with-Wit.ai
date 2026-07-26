@@ -5,9 +5,9 @@
 #include <BackgroundAudio.h>
 
 // Wi-fi and wit.ai credentials
-const char* WIFI_SSID = "TP-Link_E85E";
-const char* WIFI_PASSWORD = "87639001";
-const char* WIT_TOKEN = "V7H5UND6NIR4UZRNGHPNOGUYMJARHZQB";
+const char* WIFI_SSID = "";
+const char* WIFI_PASSWORD = "";
+const char* WIT_TOKEN = "";
 
 // Connections to I2S amplifiier
 #define CUSTOM_BCLK 7
